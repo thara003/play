@@ -15,7 +15,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Play - A Money Management app",
-  description: "Free Next.js SaaS Boilerplate and Starter Kit designed and built for SaaS startups. It comes with all necessary integrations, pages, and components you need to launch a feature-rich SaaS websites.",
+  description: "Your Path to Wealth Starts Here. Access Expert Strategies, Resources, and Secrets That Will Transform Your Financial Life",
 };
 
 export default function Home() {
